@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Front End Devlopment from Udamy.
 - 💞️ Professionaly I'm Graphic designer and Student.
-- 📫 How to reach me @jpvisuals_ on instagram
+- 📫 How to reach me --> @jpvisuals_ in instagram
 
 <!---
 jigarparekh28/jigarparekh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
