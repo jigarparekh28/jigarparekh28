@@ -22,7 +22,7 @@
 <h3 align="left">Graphics tools:</h3><p align="left">
     
     <a href="https://www.w3.org/html/](https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="PhotoShop" width="40" height="40"/> </a>
-   <a href="https://www.w3schools.com/css/](https://www.corel.com/en/" target="_blank"> <img src="https://www.freeiconspng.com/img/5662" alt="CorelDraw" width="40" height="40"/> </a>
+   <a href="https://www.w3schools.com/css/](https://www.corel.com/en/" target="_blank"> <img src="https://a.omappapi.com/users/41932b4c7956/images/c01c647135601644865786-sub-icon-cdgs-facebook-360x360.png" alt="CorelDraw" width="40" height="40"/> </a>
    
    
    
