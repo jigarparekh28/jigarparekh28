@@ -21,7 +21,7 @@
     
 <h3 align="left">Graphics tools:</h3> <p align="left">
     
-   <a href="https://www.w3schools.com/css/](https://www.corel.com/en/" target="_blank"> <img src="https://a.omappapi.com/users/41932b4c7956/images/c01c647135601644865786-sub-icon-cdgs-facebook-360x360.png" alt="CorelDraw" width="40" height="40"/> </a>
+   <a href="https://www.w3schools.com/css/](https://www.corel.com/en/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/03/Photoshop-logo.png" alt="CorelDraw" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/css/](https://www.corel.com/en/" target="_blank"> <img src="https://a.omappapi.com/users/41932b4c7956/images/c01c647135601644865786-sub-icon-cdgs-facebook-360x360.png" alt="CorelDraw" width="40" height="40"/> </a>
    
    
