@@ -19,7 +19,7 @@
    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
  
     
-<h3 align="left">Graphics tools:</h3><p align="left">
+<h3 align="left">Graphics tools:</h3> <p align="left">
     
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="PhotoShop" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/css/](https://www.corel.com/en/" target="_blank"> <img src="https://a.omappapi.com/users/41932b4c7956/images/c01c647135601644865786-sub-icon-cdgs-facebook-360x360.png" alt="CorelDraw" width="40" height="40"/> </a>
