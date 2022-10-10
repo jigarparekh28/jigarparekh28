@@ -21,8 +21,8 @@
     
 <h3 align="left">Graphics tools:</h3><p align="left">
     
-    <a href="[https://www.w3.org/html/](https://www.adobe.com/products/photoshop.html)" target="_blank"> <img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png)" alt="PhotoShop" width="40" height="40"/> </a>
-   <a href="[https://www.w3schools.com/css/](https://www.corel.com/en/)" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F268456827777227079%2F&psig=AOvVaw12NQvn9xXecwi2TXjqSlWG&ust=1665486639294000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNifu6_D1foCFQAAAAAdAAAAABAD)" alt="CorelDraw" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/](https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="PhotoShop" width="40" height="40"/> </a>
+   <a href="https://www.w3schools.com/css/](https://www.corel.com/en/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F378843%2Fcoreldraw-2019&psig=AOvVaw12NQvn9xXecwi2TXjqSlWG&ust=1665486639294000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNifu6_D1foCFQAAAAAdAAAAABAH" alt="CorelDraw" width="40" height="40"/> </a>
    
    
    
