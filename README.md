@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Jigar 💙 </h1>
 
 <!--<h3 align="center"> A MCA Student 💻</h3>--> 
-<h4 align="center"> Always happy to learn & try new things. <h4>
+<h4 align="center"> Do for the Best, Prepare for the Worst. <h4>
 
 <h3 align="left">A short introduction of me:</h3>
 
