@@ -26,6 +26,19 @@
    <a href="https://www.corel.com/en/" target="_blank"> <img src="https://a.omappapi.com/users/41932b4c7956/images/c01c647135601644865786-sub-icon-cdgs-facebook-360x360.png" alt="CorelDraw" width="40" height="40"/> </a>
    
    
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.ap... &theme=radical"/>
+<br/>
+
+### 𝚂𝚑𝚘𝚠 some ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
+
+   
+   
    
 
 
