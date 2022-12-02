@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning Front End Devlopment from Udamy.
 - 💞️ Professionaly I'm Graphic designer and Web Dev. Student.
-- 📫 How to reach me --> @jpvisuals_ instagram
-- 💬 like to talk about Graphic Design, Programming, Technology, Science, Universe and any topic to learn more about it.
+- 📫 2023 Goals - Cloud Computing, Python & Blockchain.
+- 💬 Ask me about - Graphic Design, Web development.
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
