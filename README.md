@@ -28,7 +28,7 @@
    
 <div align="center">
     
- ![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?jigarparekh28= &theme=radical)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.ap... &theme=radical">
 <br/> -->
