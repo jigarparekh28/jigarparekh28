@@ -25,7 +25,7 @@
    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/03/Photoshop-logo.png" alt="CorelDraw" width="40" height="40"/> </a>
    <a href="https://www.corel.com/en/" target="_blank"> <img src="https://a.omappapi.com/users/41932b4c7956/images/c01c647135601644865786-sub-icon-cdgs-facebook-360x360.png" alt="CorelDraw" width="40" height="40"/> </a>
    
-   
+<!--    
 <div align="center">
     
     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&theme=radical) <br/>
@@ -37,7 +37,7 @@
 
 </div>
 
-#
+# -->
 
 <div align='center'> 
  <img src = "https://i.graphicmama.com/blog/wp-content/uploads/2021/06/10112619/Free-PowerPoint-Animations-Graphic-Mama-Character-Gif-Animation-14.gif" width = 300px>
