@@ -28,7 +28,7 @@
    
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.ap... &theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.ap... &theme=radical">
 <br/>
 
 ### 𝚂𝚑𝚘𝚠 some ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
@@ -36,11 +36,6 @@
 </div>
 
 #
-
-   
-   
-   
-
 
 <div align='center'> 
  <img src = "https://i.graphicmama.com/blog/wp-content/uploads/2021/06/10112619/Free-PowerPoint-Animations-Graphic-Mama-Character-Gif-Animation-14.gif" width = 300px>
