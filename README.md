@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Front End Devlopment from Udamy.
 - 💞️ Professionaly I'm Graphic designer and Web Dev. Student.
-- 📫 2023 Goals - Cloud Computing, Python & Blockchain.
+- 📫 New Year Goals - Learn more about Cloud Computing, Python & Blockchain.
 - 💬 Ask me about - Graphic Design, Web development.
 
 <h3 align="left">Languages and tools:</h3>
